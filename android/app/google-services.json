@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862588448756",
+    "project_id": "laundaryapp-5b265",
+    "storage_bucket": "laundaryapp-5b265.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862588448756:android:37df3d626fc84a641d93a1",
+        "android_client_info": {
+          "package_name": "com.milestone.laundary_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862588448756-dv3roqu2orr0e4evo9hk6c9metlumajv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNSVw5bQ0gXh0qOYGdkHJZ8RS5VBCS6Xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862588448756-dv3roqu2orr0e4evo9hk6c9metlumajv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
